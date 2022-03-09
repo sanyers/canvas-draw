@@ -1,0 +1,114 @@
+{
+  "id": "3222133",
+  "name": "白板图标2",
+  "font_family": "canvas-iconfont",
+  "css_prefix_text": "icon-cv-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9165174",
+      "name": "下载",
+      "font_class": "down",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "326523",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "10885919",
+      "name": "保存",
+      "font_class": "baocun",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "577309",
+      "name": "关闭1",
+      "font_class": "guanbi",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "386269",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "386270",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "1240501",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1251259",
+      "name": "pencil",
+      "font_class": "pencil",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "1301371",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "4354255",
+      "name": "形状-椭圆形",
+      "font_class": "tuoyuan",
+      "unicode": "eb99",
+      "unicode_decimal": 60313
+    },
+    {
+      "icon_id": "6135295",
+      "name": "redo",
+      "font_class": "redo",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "7009033",
+      "name": "undo",
+      "font_class": "undo",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "7562959",
+      "name": "线条",
+      "font_class": "line",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "7789612",
+      "name": "橡皮擦",
+      "font_class": "xiangpica",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "18175801",
+      "name": "正方形",
+      "font_class": "checkbox",
+      "unicode": "ea70",
+      "unicode_decimal": 60016
+    }
+  ]
+}
