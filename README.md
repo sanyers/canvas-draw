@@ -5,6 +5,7 @@
 canvas 画板，白板
 
 [在线 DEMO](https://sanyers.gitee.io/canvas-draw)
+[在线 DEMO github](https://sanyers.github.io/canvas-draw)
 
 #### 软件架构
 
