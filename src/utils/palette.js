@@ -73,6 +73,7 @@ export class Palette {
   }
   // 鼠标按下
   onmousedown(e) {
+    e.preventDefault();
     let eventName = 'mousemove';
     if (this.isTouch) {
       const { x, y } = this.getPoint(e);
@@ -183,7 +184,8 @@ export class Palette {
     }
   }
   // 鼠标抬起
-  onmouseup() {
+  onmouseup(e) {
+    e.preventDefault();
     if (this.isClickCanvas) {
       this.isClickCanvas = false;
       if (this.isTouch) {
